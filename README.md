@@ -8,3 +8,6 @@
     <p align="center">
   Efficient HackerRank solutions in Java programmed by <a alt="HackerRank Profile" href="https://www.hackerrank.com/sejal_shrivasta1" >Sejal Shrivastava</a>
 </p>
+
+<img align = "center" alt = "coding" width = "520"  src = "https://user-images.githubusercontent.com/87522195/180602062-f485d8f6-4916-4e70-aa60-c2415027172e.jpg">
+
